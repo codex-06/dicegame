@@ -1,0 +1,25 @@
+h3{
+    color: #eae2b7;
+    font-family: "Srikhand",cursive;
+    font-size: 2rem;
+}
+
+.title{
+    font-family: "Rock Salt",cursive;
+    color: orangered;
+    font-size: 4rem;
+    text-shadow: 2px 4px black;
+}
+
+.sec1{
+    text-align: center;
+}
+
+body{
+    background-color: #003049;
+}
+
+.die{
+    display: inline-block;
+    padding: 2rem;
+}
